@@ -1,0 +1,216 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 4 0 R 5 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 9 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 9 0 R >> >> /Contents 7 0 R >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 9 0 R >> >> /Contents 8 0 R >>
+endobj
+6 0 obj
+<< /Length 2429 >>
+stream
+BT
+/F1 12 Tf
+16 TL
+72 720 Td
+(APHASIA COMPANION APP CONCEPT) Tj
+T*
+T*
+(VISION) Tj
+T*
+(Create a conversational companion that helps people with aphasia express themselves confidently during daily interactions. The app listens, adapts to the user, and offers multimodal prompts—text, images, and speech—to keep conversations flowing naturally.) Tj
+T*
+T*
+(CORE PRINCIPLES) Tj
+T*
+(1. **User-first communication** – Reduce frustration by prioritizing simplicity and speed) Tj
+T*
+(   over feature count.) Tj
+T*
+(2. **Adaptive assistance** – Personalize vocabulary, prompts, and interface layouts based) Tj
+T*
+(   on each person’s speech patterns and goals.) Tj
+T*
+(3. **Inclusive design** – Provide a calm visual style, large tap targets, optional) Tj
+T*
+(   contrast modes, and cross-device sync.) Tj
+T*
+(4. **Privacy-by-default** – Keep user utterances encrypted, with clear consent before any) Tj
+T*
+(   cloud processing.) Tj
+T*
+T*
+(KEY USER SCENARIOS) Tj
+T*
+(• **Spontaneous chat**: The user taps a phrase starter, speaks, or types, and the app) Tj
+T*
+(  suggests likely follow-up words or sentences.) Tj
+T*
+(• **Errand support**: Before a store visit, the companion builds a quick “script” with key) Tj
+T*
+(  vocabulary, reference images, and barcodes.) Tj
+T*
+(• **Care partner collaboration**: Caregivers contribute custom phrases or review progress) Tj
+T*
+(  through shared notes.) Tj
+T*
+(• **Therapy bridge**: Speech-language pathologists assign tailored practice sets and) Tj
+T*
+(  review analytics between sessions.) Tj
+T*
+T*
+(FEATURE OUTLINE) Tj
+T*
+(1. CONVERSATIONAL CANVAS) Tj
+T*
+(• Live speech capture with on-device recognition tuned for aphasic speech patterns.) Tj
+T*
+(• Word and phrase recommendations ranked by context, frequency, and user feedback.) Tj
+T*
+(• Quick visual cards \(emoji, photos, icons\) to complement verbal output.) Tj
+T*
+T*
+(2. SMART VOCABULARY COACH) Tj
+T*
+(• Progressive word banks grouped by theme and difficulty.) Tj
+T*
+(• Spaced-repetition prompts blending speaking, reading, and choosing tasks.) Tj
+T*
+(• Feedback loop that celebrates attempts rather than only correct answers.) Tj
+T*
+T*
+(3. CARE CIRCLE PORTAL) Tj
+T*
+(• Shared accounts with adjustable permissions for family, friends, and clinicians.) Tj
+T*
+(• Messaging layer for gentle reminders or encouragement.) Tj
+T*
+(• Secure export of progress summaries for therapy documentation.) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Length 2292 >>
+stream
+BT
+/F1 12 Tf
+16 TL
+72 720 Td
+T*
+T*
+(4. INTEGRATIONS) Tj
+T*
+(• **AI assistance**: Fine-tuned language model that understands the user’s unique) Tj
+T*
+(  phrasing, suggesting clarifications or follow-up sentences.) Tj
+T*
+(• **Voice recognition**: Hybrid pipeline combining on-device models for privacy and) Tj
+T*
+(  optional cloud enhancement for noisy environments.) Tj
+T*
+(• **Wearables**: Quick prompts via smartwatch complications and haptic cues for pacing.) Tj
+T*
+T*
+(DATA & AI APPROACH) Tj
+T*
+(• Collect opt-in audio samples to adapt pronunciation models while giving users full) Tj
+T*
+(  control to delete data at any time.) Tj
+T*
+(• Train a small personalization layer \(e.g., LoRA adapters\) on-device or in a private) Tj
+T*
+(  workspace to keep the base model respectful and responsive.) Tj
+T*
+(• Incorporate explainability—show why the app recommended a phrase and allow one-tap) Tj
+T*
+(  feedback to improve future suggestions.) Tj
+T*
+T*
+(ROADMAP SKETCH) Tj
+T*
+(1. **Discovery**: Interviews with people with aphasia, caregivers, and speech-language) Tj
+T*
+(   pathologists; create empathy maps.) Tj
+T*
+(2. **Prototype**: Figma flows and a React Native proof-of-concept focusing on the) Tj
+T*
+(   conversational canvas.) Tj
+T*
+(3. **Pilot**: Limited release with remote logging and weekly check-ins to observe real-) Tj
+T*
+(   world usage.) Tj
+T*
+(4. **Scale**: Harden infrastructure, pursue clinical validations, and add multilingual) Tj
+T*
+(   support.) Tj
+T*
+T*
+(SUCCESS METRICS) Tj
+T*
+(• Reduced average time-to-utterance during conversations.) Tj
+T*
+(• Increased self-reported confidence scores post-interaction.) Tj
+T*
+(• Daily active usage across key features \(canvas, coach, care portal\).) Tj
+T*
+(• Positive clinician feedback on therapy alignment.) Tj
+T*
+T*
+(ETHICAL & ACCESSIBILITY GUARDRAILS) Tj
+T*
+(• Transparent user agreements with plain-language summaries.) Tj
+T*
+(• Compatibility with screen readers and alternative input methods.) Tj
+T*
+(• Emergency assist mode that can call preset contacts or display medical info instantly.) Tj
+T*
+T*
+(NEXT STEPS) Tj
+T*
+(• Draft research recruitment materials with aphasia advocacy groups.) Tj
+T*
+(• Assemble advisory board of speech-language pathologists and lived-experience experts.) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Length 157 >>
+stream
+BT
+/F1 12 Tf
+16 TL
+72 720 Td
+(• Develop non-technical prototypes \(card sorting, script rehearsal\) to validate core flows) Tj
+T*
+(  before coding.) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000127 00000 n 
+0000000253 00000 n 
+0000000379 00000 n 
+0000000505 00000 n 
+0000002985 00000 n 
+0000005328 00000 n 
+0000005535 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+5605
+%%EOF
