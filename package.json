@@ -1,0 +1,61 @@
+{
+  "name": "echofriend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "ios": "react-native run-ios",
+    "android": "react-native run-android",
+    "test": "jest",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "seed": "ts-node scripts/seed.ts",
+    "demo": "ts-node scripts/demo.ts"
+  },
+  "dependencies": {
+    "@react-navigation/native": "^6.1.9",
+    "@react-navigation/native-stack": "^6.9.17",
+    "@shopify/flash-list": "^1.6.4",
+    "react": "18.2.0",
+    "react-native": "0.73.6",
+    "react-native-gesture-handler": "^2.14.0",
+    "react-native-reanimated": "^3.6.2",
+    "react-native-safe-area-context": "^4.8.2",
+    "react-native-screens": "^3.29.0",
+    "react-native-sqlite-storage": "^6.1.12",
+    "react-native-tts": "^5.2.3",
+    "zustand": "^4.5.0",
+    "uuid": "^9.0.1",
+    "@react-native-community/netinfo": "^11.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.5",
+    "@babel/runtime": "^7.24.5",
+    "@react-native-community/eslint-config": "^3.2.0",
+    "@testing-library/jest-native": "^5.4.3",
+    "@testing-library/react-native": "^12.5.1",
+    "@types/jest": "^29.5.12",
+    "@types/react": "18.2.21",
+    "@types/react-native": "0.73.0",
+    "@types/react-test-renderer": "18.0.0",
+    "@types/uuid": "^9.0.7",
+    "babel-jest": "^29.7.0",
+    "eslint": "^8.57.0",
+    "jest": "^29.7.0",
+    "metro-react-native-babel-preset": "^0.77.0",
+    "react-test-renderer": "18.2.0",
+    "ts-jest": "^29.1.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5",
+    "@types/node": "^20.12.7"
+  },
+  "jest": {
+    "preset": "react-native",
+    "setupFilesAfterEnv": [
+      "<rootDir>/tests/setupTests.ts"
+    ],
+    "transformIgnorePatterns": [
+      "node_modules/(?!(react-native|@react-native|@react-navigation|react-native-reanimated|@shopify|@react-native-tts)/)"
+    ]
+  }
+}
